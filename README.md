@@ -1,7 +1,7 @@
 ![Lanna-fevfr stats](https://github-readme-stats.vercel.app/api?username=Lanna-devfr&show_icons=true&theme=tokyonight)
 
 ```js
-const Iroo = {
+const Lanna = {
     name: "Lanna",
     age: 19,
     from: "Paris",
