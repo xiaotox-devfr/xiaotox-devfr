@@ -1,4 +1,4 @@
-![xiaotox-devfr stats](https://github-readme-stats.vercel.app/api?username=Lanna-devfr&show_icons=true&theme=tokyonight)
+![xiaotox-devfr stats](https://github-readme-stats.vercel.app/api?username=xiaotox-devfr&show_icons=true&theme=tokyonight)
 
 ```js
 const xiaotox = {
