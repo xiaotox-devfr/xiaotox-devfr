@@ -1,7 +1,7 @@
 ![xiaotox-devfr stats](https://github-readme-stats.vercel.app/api?username=Lanna-devfr&show_icons=true&theme=tokyonight)
 
 ```js
-const Lanna = {
+const xiaotox = {
     name: "xiaotox",
     age: 14,
     from: "Paris",
